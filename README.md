@@ -50,7 +50,7 @@ The solution is implemented in JavaScript and uses the following approach:
 2. Place the test case JSON files (`testCase1.json` and `testCase2.json`) in the same directory as the script.
 3. Run the script using:
    ```bash
-   node script.js
+   node sol1.js
    ```
 4. The constant term for each test case will be printed to the console.
 
